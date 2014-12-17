@@ -19,7 +19,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "swiftmailer/swiftmailer": "*"
+        "swiftmailer/swiftmailer": "~5.3.1"
     },
     "autoload": {
         "psr-4": { "yii\\swiftmailer\\": "" }
